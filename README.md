@@ -5,6 +5,7 @@
 - https://github.com/ardiansetya/Disasters-Report-React-Express/tree/master/be
 - https://api-disasters-reports.vercel.app/
 # cara menjalankan Project
+- install
 <pre>cd my-project</pre>
 <pre>npm install -D tailwindcss postcss autoprefixer</pre>
 <pre>npx tailwindcss init -p</pre>
@@ -24,6 +25,7 @@ export default {
 <pre>@tailwind base;
 @tailwind components;
 @tailwind utilities;</pre>
+- lanjut install
 <pre>npm install sweetalert2</pre>
 <pre>npm install react-router-dom</pre>
 <pre>npm install axios</pre>
