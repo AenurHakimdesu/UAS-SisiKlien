@@ -31,3 +31,5 @@ export default {
 <pre>npm install axios</pre>
 <pre>npm install redux react-redux</pre>
 <pre>npm install @reduxjs/toolkit</pre>
+- cara menjalankan
+<pre>npm run dev</pre>
